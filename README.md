@@ -1,8 +1,3 @@
-title: Satyajit Dutt
-#logo: /assets/img/photo.png
-#description: text below image
-show_downloads: false
-theme: jekyll-theme-minimal
 
 # Data Scientist
 
