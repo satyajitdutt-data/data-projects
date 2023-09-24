@@ -22,8 +22,8 @@ different household and wealth segments and the pension system on household expe
 that involved understanding a complex entity diagram to merge independently run datasets that contained information from the same household. This was published as a working paper (https://shorturl.at/cjT350)
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Age, Wealth, and the MPC in Europe - A Supervised Machine Learning Approach
+[Working Paper](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Used machine learning methods such as decision trees, random forest and XGBoost to assess whether differing wealth distributions and retirement systems across different Eurozone countries affect household consumption patterns. Using data from the 2017 wave of the Eurosystem’s Household Finance and Consumption Survey (HFCS), we find that these differing wealth distributions and retirement systems are relevant to European policymakers due to the joint Eurozone monetary policy and increasing supranational fiscal authority of the EU. 
 
