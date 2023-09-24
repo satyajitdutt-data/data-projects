@@ -13,7 +13,7 @@ Ph.D., Economics | Goethe University Frankfurt (March 2022)
 - Analysed and supported a project about German household expenditure patterns using daily point-of-sale data. The findings were published in a working paper and were reported on by [German media outlets](https://shorturl.at/kHJP2) in 2021 and also in [leading international research centres](https://shorturl.at/uARU6) 
 
 ### Senior Researcher @ Leibniz Institute for Financial Research SAFE (_Aug 2016 - Jul 2021_)
-- Supported many research projects including an end-to-end analysis that was published as a [working paper](https://shorturl.at/cjT350)
+- Supported many policy/research projects including an end-to-end analysis that was published as a [working paper](https://shorturl.at/cjT350). This involved understanding a complex entity diagram in merging Dutch administrative household data (CBS) to different household surveys.
 - Conducted doctoral research on topics related to household consumption patterns when faced with different types of income changes
 
 ## Research
