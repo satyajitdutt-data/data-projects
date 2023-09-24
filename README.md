@@ -6,15 +6,14 @@
 - Ph.D., Economics | Goethe University Frankfurt (_March 2022_)								       		
 
 ## Work Experience
-**Data Analyst @ Deutsche Bundesbank (_March 2021 - Present_)**
+**Data Analyst @ Deutsche Bundesbank (_March 2021 - Present_)
 
-I analyse issues related to data collected from one of the largest business surveys in Germany 
-https://www.bundesbank.de/en/bundesbank/research/survey-on-firms
+Analyse issues related to data collected from one of the largest business surveys in Germany (https://shorturl.at/xzSV1). I prepare monthly summaries from the latest data that include data visualisation of 
+the main insights of firms’ subjective beliefs and perceptions about prices, and interest rates that are distributed to different stakeholders within the central bank. data from A/B tests administered from 
+questions within the survey and analyse firm retention rates to help provide data-driven insights on what path to pursue next. 
 
-- Prepare monthly summaries that include data visualisation of firms’ subjective beliefs and perceptions about prices, and interest rates that are distributed to different stakeholders within the central bank.
-- Analyse A/B test results and firm retention rates to help provide data-driven solutions for solving issues within the survey.
-- Analysed and supported a project about German household expenditure patterns using daily point-of-sale data. The findings were published in a working paper and were reported on by
-  German media outlets https://shorturl.at/kHJP2 and leading international research centres https://shorturl.at/uARU6
+Analysed and supported a project about German household expenditure patterns using daily point-of-sale data. The findings were published in a working paper and were reported on by German media outlets in 
+2021 (https://shorturl.at/kHJP2) and also in leading international research centres (https://shorturl.at/uARU6)
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
