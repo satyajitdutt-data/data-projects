@@ -7,12 +7,12 @@
 Ph.D., Economics | Goethe University Frankfurt (March 2022)								       		
 
 ## Work Experience
-### Data Analyst @ Deutsche Bundesbank (_March 2021 - Present_)
+### Data Analyst @ Deutsche Bundesbank (March 2021 - Present)
 - Prepared monthly summaries from the latest data that highlighted the main insights of firms’ subjective beliefs and perceptions about prices, interest rates and other key business indicators from one of the largest [business surveys](https://shorturl.at/xzSV1) in Germany.
 - Analysed data from A/B tests and firm retention rates to help provide data-driven insights on what path to pursue next. 
 - Analysed and supported a project about German household expenditure patterns using daily point-of-sale data. The findings were published in a working paper and were reported on by [German media outlets](https://shorturl.at/kHJP2) in 2021 and also in [leading international research centres](https://shorturl.at/uARU6) 
 
-### Senior Researcher @ Leibniz Institute for Financial Research SAFE (_Aug 2016 - Jul 2021_)
+### Senior Researcher @ Leibniz Institute SAFE (Aug 2016 - Jul 2021)
 - Supported many policy/research projects including an end-to-end analysis that was published as a [working paper](https://shorturl.at/cjT350). This involved understanding a complex entity diagram in merging Dutch administrative household data (CBS) to different household surveys.
 - Conducted doctoral research on topics related to household consumption patterns when faced with different types of income changes
 
