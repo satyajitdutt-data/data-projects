@@ -19,9 +19,15 @@ provide data-driven insights on what path to pursue next.
 - Supported many projects from my doctoral supervisor, [Nathanael Vellekoop](https://www.nvellekoop.nl/), including one that found that looked at the relationship between the subjective beliefs of future
 prices and the current saving behaviour of Dutch households. Performed an end-to-end analysis that involved understanding a complex entity diagram to merge independently run datasets that contained information from the same household. This was published as a [working paper](https://shorturl.at/cjT350)
 
-## Projects
+## Research
 ### Age, Wealth, and the MPC in Europe - A Supervised Machine Learning Approach
 [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4360002)
 
 Used machine learning methods such as decision trees, random forest and XGBoost to assess whether differing wealth distributions and retirement systems across different Eurozone countries affect household consumption patterns. Using data from the 2017 wave of the Eurosystem’s Household Finance and Consumption Survey (HFCS), we find that these differing wealth distributions and retirement systems are relevant to European policymakers due to the joint Eurozone monetary policy and increasing supranational fiscal authority of the EU. 
 
+## Projects
+
+### Realised inflation of German households during the 2nd half of 2020
+
+In June 2020, The German government announced a 3% cut in the VAT (sales tax) for the entire second half of 2020. I used daily point-of-sale scanner expenditure data of German households from the German market research firm, GfK, to compute a household's realised
+inflation based on their expenditures on their fast-moving consumer goods in the 2nd half of 2020. 
