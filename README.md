@@ -4,7 +4,7 @@
 #### Technical Skills: Python, SQL, Tableau, Office 365
 
 ## Education
-- Ph.D., Economics | Goethe University Frankfurt (March 2022)								       		
+Ph.D., Economics | Goethe University Frankfurt (March 2022)								       		
 
 ## Work Experience
 ### Data Analyst @ Deutsche Bundesbank (_March 2021 - Present_)
