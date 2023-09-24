@@ -25,18 +25,3 @@ prices and the current saving behaviour of Dutch households. Performed an end-to
 
 Used machine learning methods such as decision trees, random forest and XGBoost to assess whether differing wealth distributions and retirement systems across different Eurozone countries affect household consumption patterns. Using data from the 2017 wave of the Eurosystem’s Household Finance and Consumption Survey (HFCS), we find that these differing wealth distributions and retirement systems are relevant to European policymakers due to the joint Eurozone monetary policy and increasing supranational fiscal authority of the EU. 
 
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-
-
-- [Data Science Blog](https://medium.com/@shawhin)
