@@ -1,9 +1,11 @@
+title: Satyajit Dutt
+#logo: /assets/img/photo.png
 # Data Scientist
 
 #### Technical Skills: Python, SQL, Tableau, Office 365
 
 ## Education
-- Ph.D., Economics | Goethe University Frankfurt (_March 2022_)								       		
+- Ph.D., Economics | Goethe University Frankfurt (March 2022)								       		
 
 ## Work Experience
 ### Data Analyst @ Deutsche Bundesbank (_March 2021 - Present_)
