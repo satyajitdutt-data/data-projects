@@ -1,5 +1,9 @@
 title: Satyajit Dutt
 #logo: /assets/img/photo.png
+#description: text below image
+show_downloads: false
+theme: jekyll-theme-minimal
+
 # Data Scientist
 
 #### Technical Skills: Python, SQL, Tableau, Office 365
