@@ -16,9 +16,8 @@ Ph.D., Economics | Goethe University Frankfurt (March 2022)
 - Analysed and supported a project about German household expenditure patterns using daily point-of-sale data. The findings were published in a working paper and were reported on by [German media outlets](https://shorturl.at/kHJP2) in 2021 and also in [leading international research centres](https://shorturl.at/uARU6) 
 
 ### Senior Researcher @ Leibniz Institute for Financial Research SAFE (_Aug 2016 - Jul 2021_)
-- Conducted doctoral research related to consumption patterns of Dutch households in the presence of different income changes. 
-- Supported many projects from my doctoral supervisor, [Nathanael Vellekoop](https://www.nvellekoop.nl/), including one that found that looked at the relationship between the subjective beliefs of future
-prices and the current saving behaviour of Dutch households. Performed an end-to-end analysis that involved understanding a complex entity diagram to merge independently run datasets that contained information from the same household. This was published as a [working paper](https://shorturl.at/cjT350)
+- Supported many research projects including an end-to-end analysis that was published as a working paper [working paper](https://shorturl.at/cjT350)
+- Conducted doctoral research on topics related to household consumption patterns when faced with different types of income changes
 
 ## Research
 ### Age, Wealth, and the MPC in Europe - A Supervised Machine Learning Approach
