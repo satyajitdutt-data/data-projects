@@ -8,16 +8,19 @@
 ## Work Experience
 ### Data Analyst @ Deutsche Bundesbank (_March 2021 - Present_)
 
-Analyse issues related to data collected from one of the largest business surveys in Germany (https://shorturl.at/xzSV1). I prepare monthly summaries from the latest data that include data visualisation of 
-the main insights of firms’ subjective beliefs and perceptions about prices, and interest rates that are distributed to different stakeholders within the central bank. data from A/B tests administered from 
+- Analyse issues related to data collected from one of the largest business surveys in Germany (https://shorturl.at/xzSV1). I prepare monthly summaries from the latest data that include data visualisation of 
+the main insights of firms’ subjective beliefs and perceptions about prices, and interest rates that are distributed to different stakeholders within the central bank. Analyse data from A/B tests administered from 
 questions within the survey and analyse firm retention rates to help provide data-driven insights on what path to pursue next. 
 
-Analysed and supported a project about German household expenditure patterns using daily point-of-sale data. The findings were published in a working paper and were reported on by German media outlets in 
+- Analysed and supported a project about German household expenditure patterns using daily point-of-sale data. The findings were published in a working paper and were reported on by German media outlets in 
 2021 (https://shorturl.at/kHJP2) and also in leading international research centres (https://shorturl.at/uARU6)
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+### 
+Senior Researcher @ eibniz Institute for Financial Research SAFE (_Aug 2016 - Jul 2021_)
+- Conducted doctoral research related to consumption patterns of European households in the presence of different income changes. One of my dissertation papers which I co-wrote with a colleague analysed the impact of
+different household and wealth segments and the pension system on household expenditure patterns.
+- Supported many projects including one that found that looked at the relationship between the subjective beliefs of future prices and the current saving behaviour of Dutch households. Performed an end-to-end analysis
+that involved understanding a complex entity diagram to merge independently run datasets that contained information from the same household. This was published as a working paper (https://shorturl.at/cjT350)
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
