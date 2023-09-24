@@ -25,7 +25,8 @@ that involved understanding a complex entity diagram to merge independently run 
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Used machine learning methods such as decision trees, random forest and XGBoost to assess whether differing wealth distributions and retirement systems across different Eurozone countries affect household consumption patterns. Using data from the 2017 wave of the Eurosystem’s Household Finance and Consumption Survey (HFCS), we find that these differing wealth distributions and retirement systems are relevant to European policymakers due to the joint Eurozone monetary policy and increasing supranational fiscal authority of the EU. 
+
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
