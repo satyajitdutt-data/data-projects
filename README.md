@@ -9,9 +9,9 @@ Ph.D., Economics | Goethe University Frankfurt (March 2022)
 ## Work Experience
 ### Data Analyst @ Deutsche Bundesbank (_March 2021 - Present_)
 
-- Analyse issues related to data collected from one of the largest [business surveys](https://shorturl.at/xzSV1) in Germany. Prepared monthly summaries from the latest data that highlighted
-the main insights of firms’ subjective beliefs and perceptions about prices, interest rates and other key business indicators. Analysed data from A/B tests and firm retention rates to help
-provide data-driven insights on what path to pursue next. 
+- Analyse issues related to data collected from one of the largest [business surveys](https://shorturl.at/xzSV1) in Germany.
+- Prepared monthly summaries from the latest data that highlighted the main insights of firms’ subjective beliefs and perceptions about prices, interest rates and other key business indicators.
+- Analysed data from A/B tests and firm retention rates to help provide data-driven insights on what path to pursue next. 
 
 - Analysed and supported a project about German household expenditure patterns using daily point-of-sale data. The findings were published in a working paper and were reported on by [German media outlets](https://shorturl.at/kHJP2) in 2021 and also in [leading international research centres](https://shorturl.at/uARU6) 
 
