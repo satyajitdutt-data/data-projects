@@ -15,7 +15,7 @@ questions within the survey and analyse firm retention rates to help provide dat
 - Analysed and supported a project about German household expenditure patterns using daily point-of-sale data. The findings were published in a working paper and were reported on by German media outlets in 
 2021 (https://shorturl.at/kHJP2) and also in leading international research centres (https://shorturl.at/uARU6)
 
-### Senior Researcher @ eibniz Institute for Financial Research SAFE (_Aug 2016 - Jul 2021_)
+### Senior Researcher @ Leibniz Institute for Financial Research SAFE (_Aug 2016 - Jul 2021_)
 - Conducted doctoral research related to consumption patterns of European households in the presence of different income changes. One of my dissertation papers which I co-wrote with a colleague analysed the impact of
 different household and wealth segments and the pension system on household expenditure patterns.
 - Supported many projects including one that found that looked at the relationship between the subjective beliefs of future prices and the current saving behaviour of Dutch households. Performed an end-to-end analysis
