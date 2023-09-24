@@ -31,3 +31,4 @@ Used machine learning methods such as decision trees, random forest and XGBoost 
 
 In June 2020, The German government announced a 3% cut in the VAT (sales tax) for the entire second half of 2020. I used daily point-of-sale scanner expenditure data of German households from the German market research firm, GfK, to compute a household's realised
 inflation based on their expenditures on their fast-moving consumer goods in the 2nd half of 2020. 
+
