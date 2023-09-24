@@ -21,7 +21,7 @@ prices and the current saving behaviour of Dutch households. Performed an end-to
 
 ## Projects
 ### Age, Wealth, and the MPC in Europe - A Supervised Machine Learning Approach
-[Working Paper](https://www.mdpi.com/1424-8220/22/8/3048)
+[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4360002)
 
 Used machine learning methods such as decision trees, random forest and XGBoost to assess whether differing wealth distributions and retirement systems across different Eurozone countries affect household consumption patterns. Using data from the 2017 wave of the Eurosystem’s Household Finance and Consumption Survey (HFCS), we find that these differing wealth distributions and retirement systems are relevant to European policymakers due to the joint Eurozone monetary policy and increasing supranational fiscal authority of the EU. 
 
