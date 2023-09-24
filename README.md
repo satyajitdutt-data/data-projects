@@ -8,8 +8,7 @@
 ## Work Experience
 **Data Analyst @ Deutsche Bundesbank (_March 2021 - Present_)**
 
-
-- I analyse issues related to data collected from one of the largest business surveys in Germany 
+I analyse issues related to data collected from one of the largest business surveys in Germany 
 https://www.bundesbank.de/en/bundesbank/research/survey-on-firms
 
 - Prepare monthly summaries that include data visualisation of firms’ subjective beliefs and perceptions about prices, and interest rates that are distributed to different stakeholders within the central bank.
