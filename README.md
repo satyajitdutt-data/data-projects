@@ -17,7 +17,7 @@ provide data-driven insights on what path to pursue next.
 
 ### Senior Researcher @ Leibniz Institute for Financial Research SAFE (_Aug 2016 - Jul 2021_)
 - Conducted doctoral research related to consumption patterns of Dutch households in the presence of different income changes. 
-- Supported many projects from my doctoral supervisor, [Nathanael Vellekoop](https://www.nvellekoop.nl/)), including one that found that looked at the relationship between the subjective beliefs of future
+- Supported many projects from my doctoral supervisor, [Nathanael Vellekoop](https://www.nvellekoop.nl/), including one that found that looked at the relationship between the subjective beliefs of future
 prices and the current saving behaviour of Dutch households. Performed an end-to-end analysis that involved understanding a complex entity diagram to merge independently run datasets that contained information from the same household. This was published as a [working paper](https://shorturl.at/cjT350)
 
 ## Projects
