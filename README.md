@@ -25,7 +25,7 @@ Used machine learning methods such as decision trees, random forest and XGBoost 
 
 ## Projects
 
-### Realised inflation of German households during the 2nd half of 2020
+### Experienced inflation of German households during the 2nd half of 2020
 [Github repository](https://github.com/satyajitdutt-data/Consumer-spending-price-change-data-analysis)
 
 In June 2020, The German government announced a 3% cut in the VAT (sales tax) for the entire second half of 2020. Using point-of-sale scanner expenditure data of German households from the German market research firm, GfK, to compute a household's realised
