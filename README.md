@@ -10,7 +10,7 @@ Ph.D., Economics | Goethe University Frankfurt (March 2022)
 ### Data Analyst @ Deutsche Bundesbank (March 2021 - Present)
 - Analysed and supported a project about German household expenditure patterns using daily point-of-sale data. The findings were published in a working paper and were reported on by [German media outlets](https://shorturl.at/kHJP2) in 2021 and also in [leading international research centres](https://shorturl.at/uARU6)
 - Analysed data from A/B tests and firm retention rates to help provide data-driven insights on what path to pursue next. 
-- Prepared monthly summaries from the latest data that highlighted the main insights of firms’ subjective beliefs about prices, interest rates and other key business indicators from one of the largest [business surveys](https://shorturl.at/xzSV1) in Germany.
+- Prepared monthly summaries from one of the largest [business surveys](https://shorturl.at/xzSV1) in Germany that highlighted the main insights of firms’ subjective beliefs about key business indicators, prices and interest rates.
 
 
 ### Data Analyst @ Leibniz Institute SAFE (Aug 2016 - Jul 2021)
